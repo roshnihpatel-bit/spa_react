@@ -5,7 +5,7 @@ class Home extends Component {
   return (
    <div>
     <h3>SPA App - Home</h3>
-    <p>This is a paragraph on the HomePage of the SPA App.</p>
+    <p>Test push to main firebase deployment.</p>
    </div>
   );
  }
